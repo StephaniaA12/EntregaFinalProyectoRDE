@@ -2,11 +2,11 @@
 
 ## 🎓 Universidad Antonio Nariño
 **Facultad de Ingeniería de Sistemas y Computación**  
-**Materia:** Ingeniería de Software  
-**Docente:** *(Nombre del profesor)*  
+**Materia:** Electiva 1  
+**Docente:** Fabio Antonio Gonzales Mendieta
 **Autores:**
 - Alisson Bonilla
-- Natalia
+- Natalia Stephania Rodriguez Araque
 - Brayanne Roberto Moreno Ruiz
 
 **Bogotá D.C. — 2025**
